@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sarthak Jariwala</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Sarthak Jariwala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Feb 2021 18:59:05 -0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo First Post</title>
+      <link>http://example.org/posts/demo-first-post/</link>
+      <pubDate>Wed, 24 Feb 2021 18:59:05 -0800</pubDate>
+      
+      <guid>http://example.org/posts/demo-first-post/</guid>
+      <description>Demo First Post    This is a demo post.</description>
+    </item>
+    
+  </channel>
+</rss>

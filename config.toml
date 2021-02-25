@@ -1,0 +1,71 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Sarthak Jariwala"
+theme = "hugo-coder"
+
+[params]
+  author = "Sarthak Jariwala"
+  info = "Data Scientist | Materials Scientist | Clean Energy Institute Fellow"
+  description = "Sarthak Jariwala's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/profile-pic.jpeg"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  footercontent = "Sarthak Jariwala"
+  hideFooter = false
+  hideCredits = false
+  hideCopyright = false
+  since = 2021
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  customCSS = []
+  customSCSS = []
+  customJS = []
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github"
+  url = "https://github.com/SarthakJariwala/"
+  weight = 1
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin"
+  url = "https://www.linkedin.com/in/sarthak-jariwala-877858108/"
+  weight = 2
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter"
+  url = "https://twitter.com/JariwalaSarthak/"
+  weight = 3
+
+# Menu links
+[[menu.main]]
+  name = "Projects"
+  weight = 1
+  url = "projects/"
+[[menu.main]]
+  name = "Blog"
+  weight = 2
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 3
+  url = "about/"
+[[menu.main]]
+  name = "Contact"
+  weight = 4
+  url = "contact/"

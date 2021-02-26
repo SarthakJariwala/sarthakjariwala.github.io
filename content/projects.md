@@ -6,14 +6,14 @@ slug = "projects"
 ---
 - Lead developer and maintainer of **[seaborn-image](https://github.com/SarthakJariwala/seaborn-image)**, an open-source image visualization Python package.
 
+    Read more about it [here](/posts/introducing-seaborn-image).
+
     ![imagehist-demo](/images/imghist_demo.png)
 ---
 
 - Developed and deployed a **web and desktop application for scientists** to calculate the maximum efficiency of a solar cell with various materials under different temperatures.
     
-    [Web application](https://sqcalculator.herokuapp.com/) - https://sqcalculator.herokuapp.com/
-
-    [Desktop application](https://github.com/SarthakJariwala/Shockley-Queisser-Calculator)
+    [Web application](https://sqcalculator.herokuapp.com/) | [Desktop application](https://github.com/SarthakJariwala/Shockley-Queisser-Calculator)
 
     ![sq-desktop](/images/SQ_Calculator_UI.png)
 ---
@@ -43,6 +43,9 @@ slug = "projects"
 ---
 
 - Developed robust software in Python to improve and automate data acquisition as well as analysis of outcoming data from various scientific hardware, improving overall efficiency by over 10x.
+
+![mscope-app](/images/mscope_app.png)
+
 ---
 
 - Developer, maintainer and contributor to several other open-source python packages (selected): matplotlib-scalebar, nrel_dev_api, pooch, PyScaffold-Interactive, Scopefoundry.

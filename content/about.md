@@ -4,17 +4,13 @@ slug = "about"
 +++
 
 
-**Data and Materials Scientist** with extensive experience in renewable energy technology.
+**Data and Materials Scientist** with extensive experience in providing actionable insights from data collected and critically analyzed with scientific rigor. 
 
-Interested in transforming energy solutions by combining data science and software expertise with core scientific knowledge and rigor. 
+Expertise in communicating complex data to stakeholders and technical & general audience. 
 
-Currently utilizing my expertise in data science and material fabrication, deposition and characterization to understand and improve the material bulk, surface and interface properties of next-generation solar technology and accelerate its market transition.
+Interested in working on solutions combining data science and software expertise with core scientific rigor. 
 
-Strong ability to critically analyze given information and point out the relevant data.
-
-Expertise in communicating complex data to stakeholders and technical as well as general audience. 
-
-Ability to lead a team and delegate tasks as necessary. Appreciative of the needs and strengths of others when working as part of a team. 
+Currently utilizing my expertise in data science and materials science to understand and improve the next-generation of solar technology and accelerate its market transition.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sarthak-jariwala-877858108/) or [Twitter](https://twitter.com/JariwalaSarthak/).
 

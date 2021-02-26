@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2021-02-24T18:59:05-08:00
 title = "Effective Visualization of Multi-Dimension Image Data in Python"
 description = "Got multi-dimensional image data? Python can help!"

@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Sarthak Jariwala</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on Sarthak Jariwala</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 24 Feb 2021 18:59:05 -0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Effective Visualization of Multi-Dimension Image Data in Python</title>
-      <link>http://example.org/posts/multi-dimension-image-data/</link>
-      <pubDate>Wed, 24 Feb 2021 18:59:05 -0800</pubDate>
-      
-      <guid>http://example.org/posts/multi-dimension-image-data/</guid>
-      <description>Multi-dimensional image data is, generally speaking, cumbersome to visualize.
-In scientific imaging (or in most imaging areas), multi-dimensional images are very common. The additional dimension could be anything from the physical 3rd dimension (&amp;ldquo;Z axis&amp;rdquo;), where 2D images are taken at different depths; to the time dimension, where 2D images are taken at different time intervals; to different channels in scientific imaging instruments such as atomic force microscopes or in RGB images.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Sarthak Jariwala</title><link>https://sarthakjariwala.github.io/posts/</link><description>Recent content in Posts on Sarthak Jariwala</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 26 Feb 2021 09:56:20 -0800</lastBuildDate><atom:link href="https://sarthakjariwala.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Attractive, Effective &amp; Descriptive Image Visualization in Python</title><link>https://sarthakjariwala.github.io/posts/introducing-seaborn-image/</link><pubDate>Fri, 26 Feb 2021 09:56:20 -0800</pubDate><guid>https://sarthakjariwala.github.io/posts/introducing-seaborn-image/</guid><description>Add scalebars, visualize image distribution, correct outliers, etc.
+This post introduces some of the functionalities in seaborn-image for descriptive, effective and attractive image visualization.
+Seaborn-image is an open source python visualization library for images built on top of matplotlib. It aims to provide a high level API to visualize image data similar to how seaborn provides high level API to visualize tabular data. As the name suggests, seaborn-image is heavily inspired by the seaborn library.</description></item><item><title>Effective Visualization of Multi-Dimension Image Data in Python</title><link>https://sarthakjariwala.github.io/posts/multi-dimension-image-data/</link><pubDate>Wed, 24 Feb 2021 18:59:05 -0800</pubDate><guid>https://sarthakjariwala.github.io/posts/multi-dimension-image-data/</guid><description>Multi-dimensional image data is, generally speaking, cumbersome to visualize.
+In scientific imaging (or in most imaging areas), multi-dimensional images are very common. The additional dimension could be anything from the physical 3rd dimension (&amp;ldquo;Z axis&amp;rdquo;), where 2D images are taken at different depths; to the time dimension, where 2D images are taken at different time intervals; to different channels in scientific imaging instruments such as atomic force microscopes or in RGB images.</description></item></channel></rss>

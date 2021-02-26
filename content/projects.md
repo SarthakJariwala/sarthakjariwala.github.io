@@ -4,9 +4,7 @@ slug = "projects"
 +++
 
 ---
-- Lead developer and maintainer of seaborn-image, an open-source image visualization Python package: 
-    
-    **[seaborn-image](https://github.com/SarthakJariwala/seaborn-image)** – A high level API for attractive, descriptive and effective image visualization in Python
+- Lead developer and maintainer of **[seaborn-image](https://github.com/SarthakJariwala/seaborn-image)**, an open-source image visualization Python package.
 
     ![imagehist-demo](/images/imghist_demo.png)
 ---
@@ -20,7 +18,7 @@ slug = "projects"
     ![sq-desktop](/images/SQ_Calculator_UI.png)
 ---
 
-- Used **statistical methods combined with expertise in image & data analysis and domain knowledge** to elucidate structure-property relationships in next-generation solar cell technology.
+- **Statistical methods** in combination with **expertise in image & data analysis** and domain knowledge to elucidate structure-property relationships in next-generation solar cell technology.
 
     - [Paper](https://doi.org/10.1016/j.joule.2019.09.001)
 
@@ -31,11 +29,11 @@ slug = "projects"
     ![joule paper fig](/images/joule-paper-fig4.png)
 ---
 
-- Senior technical team member of GRID (Global Renewable Infrastructure Development) at UW
+- Senior technical team member of Global Renewable Infrastructure Development (GRID) at the University of Washington
 
-    - Performed techno-economic analysis using SAM (System Advisor Model) and PySAM for designing a solar-powered school computer lab & community library in rural Ghana.
+    - Performed **techno-economic analysis** using SAM (System Advisor Model) and PySAM for designing a **solar-powered school & community library** in rural Ghana.
 
-    - Developed remote data tracking system for monitoring the health and performance of our installed solar modules and microgrids.
+    - Developed **remote data tracking system** for monitoring the **health and performance** of installed solar modules and microgrids.
 ---
 
 - Developed, packaged, and published a _**physics-informed deep learning model**_ to automate the localization, classification, and visualization of defects in 2D materials. ([Project Link](https://github.com/yiwen26/DLSSTRP))

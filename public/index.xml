@@ -8,12 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Feb 2021 18:59:05 -0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Demo First Post</title>
-      <link>http://example.org/posts/demo-first-post/</link>
+      <title>Effective Visualization of Multi-Dimension Image Data in Python</title>
+      <link>http://example.org/posts/multi-dimension-image-data/</link>
       <pubDate>Wed, 24 Feb 2021 18:59:05 -0800</pubDate>
       
-      <guid>http://example.org/posts/demo-first-post/</guid>
-      <description>Demo First Post    This is a demo post.</description>
+      <guid>http://example.org/posts/multi-dimension-image-data/</guid>
+      <description>Multi-dimensional image data is, generally speaking, cumbersome to visualize.
+In scientific imaging (or in most imaging areas), multi-dimensional images are very common. The additional dimension could be anything from the physical 3rd dimension (&amp;ldquo;Z axis&amp;rdquo;), where 2D images are taken at different depths; to the time dimension, where 2D images are taken at different time intervals; to different channels in scientific imaging instruments such as atomic force microscopes or in RGB images.</description>
     </item>
     
     <item>
@@ -43,9 +44,11 @@ Strong ability to critically analyze given information and point out the relevan
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/projects/</guid>
-      <description>Lead developer and maintainer of seaborn-image, an open-source image visualization Python package:
-**[seaborn-image](https://github.com/SarthakJariwala/seaborn-image)** – A high level API for attractive, descriptive and effective image visualization in Python ![imagehist-demo](/images/imghist_demo.png)   Developed and deployed a web and desktop application for scientists to calculate the maximum efficiency of a solar cell with various materials under different temperatures.
-[Web application](https://sqcalculator.herokuapp.com/) - https://sqcalculator.herokuapp.com/ [Desktop application](https://github.com/SarthakJariwala/Shockley-Queisser-Calculator) ![sq-desktop](/images/SQ_Calculator_UI.png)   Used statistical methods combined with expertise in image &amp;amp; data analysis and domain knowledge to elucidate structure-property relationships in next-generation solar cell technology.</description>
+      <description>Lead developer and maintainer of seaborn-image, an open-source image visualization Python package.
+     Developed and deployed a web and desktop application for scientists to calculate the maximum efficiency of a solar cell with various materials under different temperatures.
+Web application - https://sqcalculator.herokuapp.com/
+Desktop application
+     Statistical methods in combination with expertise in image &amp;amp; data analysis and domain knowledge to elucidate structure-property relationships in next-generation solar cell technology.</description>
     </item>
     
   </channel>

@@ -8,12 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Feb 2021 18:59:05 -0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Demo First Post</title>
-      <link>http://example.org/posts/demo-first-post/</link>
+      <title>Effective Visualization of Multi-Dimension Image Data in Python</title>
+      <link>http://example.org/posts/multi-dimension-image-data/</link>
       <pubDate>Wed, 24 Feb 2021 18:59:05 -0800</pubDate>
       
-      <guid>http://example.org/posts/demo-first-post/</guid>
-      <description>Demo First Post    This is a demo post.</description>
+      <guid>http://example.org/posts/multi-dimension-image-data/</guid>
+      <description>Multi-dimensional image data is, generally speaking, cumbersome to visualize.
+In scientific imaging (or in most imaging areas), multi-dimensional images are very common. The additional dimension could be anything from the physical 3rd dimension (&amp;ldquo;Z axis&amp;rdquo;), where 2D images are taken at different depths; to the time dimension, where 2D images are taken at different time intervals; to different channels in scientific imaging instruments such as atomic force microscopes or in RGB images.</description>
     </item>
     
   </channel>

@@ -94,8 +94,12 @@ g = isns.ImageGrid(
 ```
 ![multi-dim-image-5](/images/multi-dim-im-5.png)
 
----
+`ImageGrid` returns a `seaborn_image.ImageGrid` object and is a figure-level function, *i.e.* it generates a new `matplotlib` figure. We can access the figure and all the individual axes using the `fig` and `axes` attributes, respectively. This means that for any customizations that are not directly available in `seaborn-image` (see [documentation](https://seaborn-image.readthedocs.io/en/latest/)), we can drop down to `matplotlib` and use its powerful API.
+
+Overall, as we have seen throughout this post, `seaborn-image` allows us to be more *productive* by providing a high-level API for *quick, effective and attractive* image data visualization.
 
 You can find out more about the `seaborn-image` project on [GitHub](https://github.com/SarthakJariwala/seaborn-image).
 
 Thanks for reading!
+
+---

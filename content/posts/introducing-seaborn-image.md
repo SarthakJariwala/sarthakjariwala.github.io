@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 
-> Add scalebars, visualize image distribution, correct outliers, etc.
+> Add scalebars, visualize image distribution, correct outliers, and more.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/1d1ajhzj0n67b4qbwdsl.png)
 

@@ -8,13 +8,13 @@ theme = "hugo-coder"
   info = "Data Scientist | Materials Scientist | Clean Energy Institute Fellow"
   description = "Sarthak Jariwala's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/profile-pic.jpeg"
+  avatarurl = "images/profile-pic-2.png"
   #gravatar = "john.doe@example.com"
 
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  footercontent = "Sarthak Jariwala"
+  footercontent = ""
   hideFooter = false
   hideCredits = false
   hideCopyright = false
@@ -51,6 +51,11 @@ theme = "hugo-coder"
   icon = "fa fa-twitter"
   url = "https://twitter.com/JariwalaSarthak/"
   weight = 3
+[[params.social]]
+  name = "Google Scholar"
+  icon = "fa fa-google"
+  url = "https://scholar.google.com/citations?user=Cjz37ukAAAAJ&hl=en&oi=ao"
+  weight = 4
 
 # Menu links
 [[menu.main]]

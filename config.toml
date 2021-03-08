@@ -29,6 +29,10 @@ theme = "hugo-coder"
   customSCSS = []
   customJS = []
 
+# If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
+[params.goatCounter]
+    code = "sarthakjariwala"
+
 [taxonomies]
   category = "categories"
   series = "series"

@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2021-03-14T13:35:10-07:00
 title = "How Sunny is Seattle?"
 description = "A comparative look at solar resource availability"

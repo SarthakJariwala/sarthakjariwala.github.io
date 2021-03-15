@@ -31,7 +31,7 @@ To download the data programatically, we will need a [NREL Developer API key](ht
 
 ## Installation
 
-We will use a [nrel-dev-api](https://sarthakjariwala.github.io/nrel_dev_api/) to programatically access data and analysis services from NREL in Python. It currently covers all of the solar API endpoints that NREL provides, with future support for other services such as wind, electricity, etc.
+We will use a Python API that I have created, [nrel-dev-api](https://sarthakjariwala.github.io/nrel_dev_api/), to programatically access data and analysis services from NREL. It currently covers all of the solar API endpoints that NREL provides, with future support for other services such as wind, electricity, etc.
 
 ```bash
 pip install --upgrade nrel-dev-api
@@ -98,7 +98,7 @@ The resulting dataframe contains the monthly sum of "GHI" for the year 2016 in S
 Freq: M, Name: GHI, dtype: float64
 ```
 
-We can now repeat the process for Boston and Austin to get the monthly sum of "GHI" in 2016, `boston_ghi_monthly_sum` and `austin_ghi_monthly_sum` (If you want to see the code for Boston and Austin, see the [jupyter notebook](https://github.com/SarthakJariwala/articles/blob/main/solar_in_northwest/solar_in_washington.ipynb)).
+We can now repeat the process for Boston and Austin to get the monthly sum of "GHI" in 2016, `boston_ghi_monthly_sum` and `austin_ghi_monthly_sum` (If you want to see the code for Boston and Austin, check out the [jupyter notebook](https://github.com/SarthakJariwala/articles/blob/main/solar_in_northwest/solar_in_washington.ipynb)).
 
 Let's put all the monthly GHI data into a single dataframe.
 
@@ -147,7 +147,7 @@ Nov	35.059	61.626	93.345	25.73
 Dec	45.311	54.708	71.597	15.45
 ```
 
-Finally, let's visualize the differences in the irradiance data.
+Let's visualize the differences in the irradiance data.
 
 ```python
 import seaborn as sns

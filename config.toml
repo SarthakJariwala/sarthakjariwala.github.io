@@ -4,8 +4,8 @@ title = "Sarthak Jariwala"
 theme = "hugo-coder"
 
 [params]
-  author = "Sarthak Jariwala"
-  info = "Data Scientist | Materials Scientist | Clean Energy Institute Fellow"
+  author = "Sarthak Jariwala, Ph.D."
+  info = "Data Scientist | Researcher | Materials Scientist"
   description = "Sarthak Jariwala's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/profile-pic-2.png"

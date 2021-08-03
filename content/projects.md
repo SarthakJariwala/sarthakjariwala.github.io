@@ -20,9 +20,11 @@ List of some of my projects. You can learn more about the projects below.
 
 ---
 # seaborn-image
-**Creator, lead developer and maintainer** of **[seaborn-image](https://github.com/SarthakJariwala/seaborn-image)**, an open-source image visualization Python package that provides a high level API for drawing attractive, descriptive and effective images.
+**Creator and maintainer** of **[seaborn-image](https://github.com/SarthakJariwala/seaborn-image)**, an open-source image visualization Python package that provides a high level API for drawing attractive, descriptive and effective images.
 
 Learn more about the project [here](/posts/introducing-seaborn-image).
+
+**[GitHub](https://github.com/SarthakJariwala/seaborn-image)** | **[Docs](https://seaborn-image.readthedocs.io/en/stable/)**
 
 ![imagehist-demo](/images/imghist_demo.png)
 
@@ -33,12 +35,13 @@ Learn more about the project [here](/posts/introducing-seaborn-image).
 ---
 
 # nrel-dev-api 
-**Creator and maintainer** of [nrel_dev_api](https://sarthakjariwala.github.io/nrel_dev_api/), an open-source Python API for all the developer API endpoints provided by **[National Renewable Energy Lab (NREL)](https://developer.nrel.gov/docs/)**.
+**Creator and maintainer** of [nrel_dev_api](https://github.com/SarthakJariwala/nrel_dev_api), an open-source Python API for accessing data and services provided by **[National Renewable Energy Lab (NREL)](https://developer.nrel.gov/docs/)**.
 
 Example Usage:
 ```python
 from nrel_dev_api.solar import SolarResourceData
 
+# use address or lat/lon to get information about available solar resource
 seattle = SolarResourceData(address="Seattle, WA")
 ```
 
@@ -46,12 +49,14 @@ seattle = SolarResourceData(address="Seattle, WA")
 from nrel_dev_api.solar import (download_nsrdb_data,
                                 get_nsrdb_download_links)
 
+# fetch the avaialable download links
 seattle_links = get_nsrdb_download_links(year=2016, interval=60, lat=47.61, lon=-122.35)
 
+# download using the links to a pandas dataframe
 seattle_hourly_df = download_nsrdb_data(seattle_links[0], email="YOUR_EMAIL")
 ```
 
-For more information, refer the [documentation](https://sarthakjariwala.github.io/nrel_dev_api/) or [article](/posts/sunny-in-seattle)
+For more information, refer the [documentation](https://nrel-dev-api.readthedocs.io/en/latest/) or [article](/posts/sunny-in-seattle)
 
 ---
 # Structure-Property Relationships in Novel Solar Energy Materials

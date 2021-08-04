@@ -1,7 +1,8 @@
 import os
 
 
-file_content = [line for line in open("content/til/_index.md")]
+# to start with the same til-index state
+file_content = [line for line in open("content/til/_index.md")][:7]
 
 folders = [
     folder

@@ -24,7 +24,6 @@ jobs:
       
       - name: Commit and push if TIL changed
         run: |-
-          cd main
           git diff
           git config --global user.email "til-bot@example.com"
           git config --global user.name "TIL-bot"

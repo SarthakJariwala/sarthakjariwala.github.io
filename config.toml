@@ -71,10 +71,10 @@ theme = "hugo-coder"
   weight = 2
   url  = "posts/"
 [[menu.main]]
-  name = "About"
+  name = "TIL"
   weight = 3
-  url = "about/"
+  url = "til/"
 [[menu.main]]
-  name = "Contact"
+  name = "About"
   weight = 4
-  url = "contact/"
+  url = "about/"

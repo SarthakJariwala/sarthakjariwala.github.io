@@ -8,4 +8,6 @@ Things I have learned :
 
 - [Prefect](prefect/) : *1 posts*
 
+- [Python](python/) : *1 posts*
+
 ---

@@ -4,11 +4,11 @@ import os
 # to start with the same til-index state
 file_content = [line for line in open("content/til/_index.md")][:7]
 
-folders = [
+folders = sorted([
     folder
     for folder in os.listdir("content/til")
     if os.path.isdir("content/til/" + folder)
-]
+])
 
 for folder in folders:
     file_content.append("\n")

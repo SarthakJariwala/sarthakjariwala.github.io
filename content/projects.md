@@ -14,7 +14,7 @@ List of some of my projects. You can learn more about the projects below.
 - [Predictive Peptide Analysis](#predictive-peptide-analysis) : Machine learning for predictive analysis of self-assembled peptides
 - [Data Acquisiton Application](#data-acquisition) : Intuitive platform for acquiring data from scientific hardware/instruments
 - [GLabViz](#glabviz-data-analysis) : Desktop application for scientific data analysis
-- [BZMAN](#bzman) : Business management dektop application
+- [BZMAN](#bzman) : Business management desktop application
 - [BZMAN Website](#bzman-website) : Flask application facilitating application download and other functionalities
 - [Other Open-Source Contributions](#other-open-source-contributions) : `matpltolib-scalebar`, `pyscaffold-interactive`, etc.
 
@@ -49,7 +49,7 @@ seattle = SolarResourceData(address="Seattle, WA")
 from nrel_dev_api.solar import (download_nsrdb_data,
                                 get_nsrdb_download_links)
 
-# fetch the avaialable download links
+# fetch the available download links
 seattle_links = get_nsrdb_download_links(year=2016, interval=60, lat=47.61, lon=-122.35)
 
 # download using the links to a pandas dataframe

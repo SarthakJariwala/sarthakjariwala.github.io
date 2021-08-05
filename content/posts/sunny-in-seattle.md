@@ -27,11 +27,11 @@ National Renewable Energy Lab (NREL) provides access to the [National Solar Radi
 
 We will download the data and perform the analysis using Python (You can also use the web interface to download the data, if you prefer).
 
-To download the data programatically, we will need a [NREL Developer API key](https://developer.nrel.gov/signup/) - it is free and the signup only requires your name and email (where you will receive the API key). 
+To download the data programmatically, we will need a [NREL Developer API key](https://developer.nrel.gov/signup/) - it is free and the signup only requires your name and email (where you will receive the API key). 
 
 ## Installation
 
-We will use a Python API that I have created, [nrel-dev-api](https://sarthakjariwala.github.io/nrel_dev_api/), to programatically access data and analysis services from NREL. It currently covers all of the solar API endpoints that NREL provides, with future support for other services such as wind, electricity, etc.
+We will use a Python API that I have created, [nrel-dev-api](https://sarthakjariwala.github.io/nrel_dev_api/), to programmatically access data and analysis services from NREL. It currently covers all of the solar API endpoints that NREL provides, with future support for other services such as wind, electricity, etc.
 
 ```bash
 pip install --upgrade nrel-dev-api

@@ -58,7 +58,7 @@ g = isns.ImageGrid(cells, slices=[10, 20, 30, 40, 50], axis=0)
 
 We can also specify different start/stop points as well as step sizes to take using the `start`, `stop` and `step` parameters, respectively.
 
-In the code below, we are starting with the 10th slice and going upto the 40th slice with steps of 3.
+In the code below, we are starting with the 10th slice and going up to the 40th slice with steps of 3.
 >The slices and steps are taken over the last axis if not specified.
 
 ```python

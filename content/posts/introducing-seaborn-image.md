@@ -150,7 +150,7 @@ Using histogram along with an appropriate colormap provides additional informati
 
 > Tip: You can change the number of bins using the `bins` parameter and the orientation of the colorbar and histogram using the `orientation` parameter. See `imghist` [documentation examples](https://seaborn-image.readthedocs.io/en/latest/api/imghist.html) for more details
 
-Importantly, generating the entire figure - with a histogram matching the colorbar levels, scalebar describing the physical size of the features in the image, colorbar label, hiding axis ticks, etc. - took only one line of code. In essense, this is what `seaborn-image` aims to provide - a high level API for **_attractive, descriptive and effective image visualization_**.
+Importantly, generating the entire figure - with a histogram matching the colorbar levels, scalebar describing the physical size of the features in the image, colorbar label, hiding axis ticks, etc. - took only one line of code. In essence, this is what `seaborn-image` aims to provide - a high level API for **_attractive, descriptive and effective image visualization_**.
 
 Lastly, this post has only introduced **some** of the high level API that `seaborn-image` provides for image visualization. For more details, you can check out the detailed [documentation](https://seaborn-image.readthedocs.io/en/latest/) and [tutorials](https://seaborn-image.readthedocs.io/en/latest/tutorial.html) and the project on [GitHub](https://github.com/SarthakJariwala/seaborn-image).
 

@@ -1,15 +1,17 @@
-+++ 
-draft = false
-date = 2021-02-24T18:59:05-08:00
-title = "Effective Visualization of Multi-Dimension Image Data in Python"
-description = "Got multi-dimensional image data? Python can help!"
-slug = "multi-dimension-image-data"
-authors = []
-tags = []
-categories = []
-externalLink = ""
-series = []
-+++
+--- 
+draft: false
+date: 2021-02-24T18:59:05-08:00
+title: "Effective Visualization of Multi-Dimension Image Data in Python"
+description: "Got multi-dimensional image data? Python can help!"
+slug: "multi-dimension-image-data"
+authors: ["Sarthak Jariwala"]
+tags: ["seaborn-image", "python", "image"]
+categories: []
+externalLink: ""
+series: []
+cover:
+    image: "images/multi-dim-im-5.png" # image path/url
+---
 
 Multi-dimensional image data is, generally speaking, cumbersome to visualize. 
 

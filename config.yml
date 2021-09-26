@@ -1,0 +1,121 @@
+baseURL: "https://sarthakjariwala.github.io/"
+languageCode: "en-us"
+paginate: 5
+title: "Sarthak Jariwala"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Sarthak Jariwala
+    description: "Sarthak Jariwala's personal website"
+    keywords: [Blog, Portfolio, PaperMod]
+    author: "Sarthak Jariwala, Ph.D."
+    images: "images/profile-pic-2.png"
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+  
+  # analytics:
+  #       google:
+  #           SiteVerificationTag: "XYZabc"
+
+    cover:
+          hidden: false # hide everywhere but not in structured data
+          hiddenInList: true # hide on list pages and home
+          hiddenInSingle: true # hide on single page
+
+    label:
+        text: "Sarthak Jariwala"
+        # icon: /apple-touch-icon.png
+        iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: true # needs to be explicitly set
+        title: "Sarthak Jariwala, Ph.D."
+        subtitle: "Materials and Data Scientist | Researcher"
+        imageUrl: "images/profile-pic-2.png"
+        imageWidth: 180
+        imageHeight: 180
+        imageTitle: my image
+        buttons:
+            - name: "Search..."
+              url: search
+            - name: "Tags"
+              url: tags
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/JariwalaSarthak"
+        - name: github
+          url: "https://github.com/SarthakJariwala"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/sarthak-jariwala-877858108/"
+        - name: scholar
+          url: "https://scholar.google.com/citations?user=Cjz37ukAAAAJ&hl=en&oi=ao"
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.2
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+menu:
+    main:
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 10
+        - identifier: projects
+          name: Projects
+          url: /projects/
+          weight: 20
+        - identifier: posts
+          name: Blog
+          url: /posts/
+          weight: 30
+        - identifier: til
+          name: Til
+          url: /til/
+          weight: 40
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 50
+        - identifier: about
+          name: About
+          url: /about/
+          weight: 60

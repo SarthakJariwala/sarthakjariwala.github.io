@@ -1,15 +1,17 @@
-+++ 
-draft = false
-date = 2021-03-14T13:35:10-07:00
-title = "How Sunny is Seattle?"
-description = "A comparative look at solar resource availability"
-slug = "sunny-in-seattle"
-authors = []
-tags = []
-categories = []
-externalLink = ""
-series = []
-+++
+--- 
+draft: false
+date: 2021-03-14T13:35:10-07:00
+title: "How Sunny is Seattle?"
+description: "A comparative look at solar resource availability"
+slug: "sunny-in-seattle"
+authors: ["Sarthak Jariwala"]
+tags: ["solar", "python", "climate", "nrel-dev-api"]
+categories: []
+externalLink: ""
+series: []
+cover:
+    image: "/images/Seattle_vs_Berlin_GHI_2016.png"
+---
 
 > A comparative look at solar resource availability
 

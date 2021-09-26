@@ -2,6 +2,11 @@
 title: "Codespell - check spelling"
 date: 2021-08-04T21:36:58-07:00
 draft: false
+authors: ["Sarthak Jariwala"]
+tags: ["codespell", "python"]
+categories: []
+externalLink: ""
+series: []
 ---
 
 I came across `codespell` via [Simon Willison's tweet](https://twitter.com/simonw/status/1422601066156158977).

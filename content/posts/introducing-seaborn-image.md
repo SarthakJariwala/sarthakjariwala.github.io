@@ -1,15 +1,21 @@
-+++ 
-draft = false
-date = 2021-02-26T09:56:20-08:00
-title = "Attractive, Effective & Descriptive Image Visualization in Python"
-description = "Introducing `seaborn-image` for image visualization in Python"
-slug = "introducing-seaborn-image"
-authors = []
-tags = []
-categories = []
-externalLink = ""
-series = []
-+++
+--- 
+draft: false
+date: 2021-02-26T09:56:20-08:00
+title: "Attractive, Effective & Descriptive Image Visualization in Python"
+description: "Introducing `seaborn-image` for image visualization in Python"
+slug: "introducing-seaborn-image"
+authors: ["Sarthak Jariwala"]
+tags: ["seaborn-image", "python", "image"]
+categories: []
+externalLink: ""
+series: []
+cover:
+    image: "https://dev-to-uploads.s3.amazonaws.com/i/1d1ajhzj0n67b4qbwdsl.png" # image path/url
+#     alt: "<alt text>" # alt text
+#     caption: "<text>" # display caption under cover
+#     relative: false # when using page bundles set this to true
+#     hidden: true # only hide on current single page
+---
 
 > Add scalebars, visualize image distribution, correct outliers, and more.
 

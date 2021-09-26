@@ -14,22 +14,6 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
       
-      - name: Set up Python 3.8
-        uses: actions/setup-python@v2.2.2
-        with:
-          python-version: 3.8
-      
-      - name: Update TIL Index
-        run: python update_til_index.py
-      
-      - name: Commit and push if TIL changed
-        run: |-
-          git diff
-          git config --global user.email "til-bot@example.com"
-          git config --global user.name "TIL-bot"
-          git diff --quiet || (git add content/til/_index.md && git commit -m "Updated TIL index")
-          git push
-      
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:

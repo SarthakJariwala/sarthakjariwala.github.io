@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>image on Sarthak Jariwala</title>
+    <link>https://sarthakjariwala.github.io/tags/image/</link>
+    <description>Recent content in image on Sarthak Jariwala</description>
+    <image>
+      <url>https://sarthakjariwala.github.io/105</url>
+      <link>https://sarthakjariwala.github.io/105</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Feb 2021 09:56:20 -0800</lastBuildDate><atom:link href="https://sarthakjariwala.github.io/tags/image/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attractive, Effective &amp; Descriptive Image Visualization in Python</title>
+      <link>https://sarthakjariwala.github.io/posts/introducing-seaborn-image/</link>
+      <pubDate>Fri, 26 Feb 2021 09:56:20 -0800</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/posts/introducing-seaborn-image/</guid>
+      <description>Introducing `seaborn-image` for image visualization in Python</description>
+    </item>
+    
+    <item>
+      <title>Effective Visualization of Multi-Dimension Image Data in Python</title>
+      <link>https://sarthakjariwala.github.io/posts/multi-dimension-image-data/</link>
+      <pubDate>Wed, 24 Feb 2021 18:59:05 -0800</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/posts/multi-dimension-image-data/</guid>
+      <description>Got multi-dimensional image data? Python can help!</description>
+    </item>
+    
+  </channel>
+</rss>

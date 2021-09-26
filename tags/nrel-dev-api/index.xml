@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nrel-dev-api on Sarthak Jariwala</title>
+    <link>https://sarthakjariwala.github.io/tags/nrel-dev-api/</link>
+    <description>Recent content in nrel-dev-api on Sarthak Jariwala</description>
+    <image>
+      <url>https://sarthakjariwala.github.io/105</url>
+      <link>https://sarthakjariwala.github.io/105</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Mar 2021 13:35:10 -0700</lastBuildDate><atom:link href="https://sarthakjariwala.github.io/tags/nrel-dev-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Sunny is Seattle?</title>
+      <link>https://sarthakjariwala.github.io/posts/sunny-in-seattle/</link>
+      <pubDate>Sun, 14 Mar 2021 13:35:10 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/posts/sunny-in-seattle/</guid>
+      <description>A comparative look at solar resource availability</description>
+    </item>
+    
+  </channel>
+</rss>

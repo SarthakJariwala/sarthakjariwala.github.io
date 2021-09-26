@@ -1,1 +1,114 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Sarthak Jariwala</title><link>https://sarthakjariwala.github.io/tags/</link><description>Recent content in Tags on Sarthak Jariwala</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://sarthakjariwala.github.io/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Sarthak Jariwala</title>
+    <link>https://sarthakjariwala.github.io/tags/</link>
+    <description>Recent content in Tags on Sarthak Jariwala</description>
+    <image>
+      <url>https://sarthakjariwala.github.io/105</url>
+      <link>https://sarthakjariwala.github.io/105</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Sep 2021 19:59:05 -0700</lastBuildDate><atom:link href="https://sarthakjariwala.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>docker</title>
+      <link>https://sarthakjariwala.github.io/tags/docker/</link>
+      <pubDate>Sat, 25 Sep 2021 19:59:05 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker-compose</title>
+      <link>https://sarthakjariwala.github.io/tags/docker-compose/</link>
+      <pubDate>Sat, 25 Sep 2021 19:59:05 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/tags/docker-compose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>codespell</title>
+      <link>https://sarthakjariwala.github.io/tags/codespell/</link>
+      <pubDate>Wed, 04 Aug 2021 21:36:58 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/tags/codespell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://sarthakjariwala.github.io/tags/python/</link>
+      <pubDate>Wed, 04 Aug 2021 21:36:58 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dask</title>
+      <link>https://sarthakjariwala.github.io/tags/dask/</link>
+      <pubDate>Tue, 03 Aug 2021 16:00:55 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/tags/dask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prefect</title>
+      <link>https://sarthakjariwala.github.io/tags/prefect/</link>
+      <pubDate>Tue, 03 Aug 2021 16:00:55 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/tags/prefect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>climate</title>
+      <link>https://sarthakjariwala.github.io/tags/climate/</link>
+      <pubDate>Sun, 14 Mar 2021 13:35:10 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/tags/climate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nrel-dev-api</title>
+      <link>https://sarthakjariwala.github.io/tags/nrel-dev-api/</link>
+      <pubDate>Sun, 14 Mar 2021 13:35:10 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/tags/nrel-dev-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solar</title>
+      <link>https://sarthakjariwala.github.io/tags/solar/</link>
+      <pubDate>Sun, 14 Mar 2021 13:35:10 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/tags/solar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image</title>
+      <link>https://sarthakjariwala.github.io/tags/image/</link>
+      <pubDate>Fri, 26 Feb 2021 09:56:20 -0800</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/tags/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seaborn-image</title>
+      <link>https://sarthakjariwala.github.io/tags/seaborn-image/</link>
+      <pubDate>Fri, 26 Feb 2021 09:56:20 -0800</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/tags/seaborn-image/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

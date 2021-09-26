@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sarthakjariwala.github.io/sitemap.xml

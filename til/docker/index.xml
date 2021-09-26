@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docker on Sarthak Jariwala</title>
+    <link>https://sarthakjariwala.github.io/til/docker/</link>
+    <description>Recent content in Docker on Sarthak Jariwala</description>
+    <image>
+      <url>https://sarthakjariwala.github.io/105</url>
+      <link>https://sarthakjariwala.github.io/105</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Sep 2021 19:59:05 -0700</lastBuildDate><atom:link href="https://sarthakjariwala.github.io/til/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build &amp; Run a Single Service in docker-compose</title>
+      <link>https://sarthakjariwala.github.io/til/docker/build-run-single-service/</link>
+      <pubDate>Sat, 25 Sep 2021 19:59:05 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/til/docker/build-run-single-service/</guid>
+      <description>Build and run single service using docker-compose</description>
+    </item>
+    
+  </channel>
+</rss>

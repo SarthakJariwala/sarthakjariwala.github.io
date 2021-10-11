@@ -19,7 +19,7 @@ params:
     description: "Sarthak Jariwala's personal website"
     keywords: [Blog, Portfolio, PaperMod]
     author: "Sarthak Jariwala, Ph.D."
-    images: "images/profile-pic-2.png"
+    images: "images/profile-pic.png"
     DateFormat: "January 2, 2006"
     defaultTheme: auto # dark, light
     disableThemeToggle: false
@@ -56,9 +56,9 @@ params:
         enabled: true # needs to be explicitly set
         title: "Sarthak Jariwala, Ph.D."
         subtitle: "Materials and Data Scientist | Researcher"
-        imageUrl: "images/profile-pic-2.png"
-        imageWidth: 180
-        imageHeight: 180
+        imageUrl: "images/profile-pic.png"
+        imageWidth: 300
+        imageHeight: 300
         imageTitle: my image
         buttons:
             - name: "Search..."

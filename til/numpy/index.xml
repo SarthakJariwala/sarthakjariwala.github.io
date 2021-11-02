@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Numpy on Sarthak Jariwala</title>
+    <link>https://sarthakjariwala.github.io/til/numpy/</link>
+    <description>Recent content in Numpy on Sarthak Jariwala</description>
+    <image>
+      <url>https://sarthakjariwala.github.io/105</url>
+      <link>https://sarthakjariwala.github.io/105</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Nov 2021 15:51:33 -0700</lastBuildDate><atom:link href="https://sarthakjariwala.github.io/til/numpy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Array Padding - Only One Side</title>
+      <link>https://sarthakjariwala.github.io/til/numpy/pad-an-array/</link>
+      <pubDate>Tue, 02 Nov 2021 15:51:33 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/til/numpy/pad-an-array/</guid>
+      <description>numpy.pad provides an easy way to pad a numpy array. For instance, if you want to add two 3&amp;rsquo;s and four -7&amp;rsquo;s to an array, you can do the following -
+import numpy as np a = np.array([1, 2, -1]) np.pad(a, (2, 4), &amp;#34;constant&amp;#34;, constant_values=(3, -7)) # array([ 3, 3, 1, 2, -1, -7, -7, -7, -7]) But, what if you only want to pad the right side or left side?</description>
+    </item>
+    
+  </channel>
+</rss>

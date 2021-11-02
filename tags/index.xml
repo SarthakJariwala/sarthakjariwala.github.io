@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Sep 2021 19:59:05 -0700</lastBuildDate><atom:link href="https://sarthakjariwala.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Nov 2021 15:51:33 -0700</lastBuildDate><atom:link href="https://sarthakjariwala.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>numpy</title>
+      <link>https://sarthakjariwala.github.io/tags/numpy/</link>
+      <pubDate>Tue, 02 Nov 2021 15:51:33 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/tags/numpy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://sarthakjariwala.github.io/tags/python/</link>
+      <pubDate>Tue, 02 Nov 2021 15:51:33 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>docker</title>
       <link>https://sarthakjariwala.github.io/tags/docker/</link>
@@ -35,15 +53,6 @@
       <pubDate>Wed, 04 Aug 2021 21:36:58 -0700</pubDate>
       
       <guid>https://sarthakjariwala.github.io/tags/codespell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://sarthakjariwala.github.io/tags/python/</link>
-      <pubDate>Wed, 04 Aug 2021 21:36:58 -0700</pubDate>
-      
-      <guid>https://sarthakjariwala.github.io/tags/python/</guid>
       <description></description>
     </item>
     

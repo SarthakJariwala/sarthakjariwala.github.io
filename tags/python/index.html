@@ -82,6 +82,18 @@
 </header>
 <article class="post-entry tag-entry">
 <header class=entry-header>
+<h2>Array Padding - Only One Side
+</h2>
+</header>
+<section class=entry-content>
+<p>numpy.pad provides an easy way to pad a numpy array. For instance, if you want to add two 3’s and four -7’s to an array, you can do the following -
+import numpy as np a = np.array([1, 2, -1]) np.pad(a, (2, 4), "constant", constant_values=(3, -7)) # array([ 3, 3, 1, 2, -1, -7, -7, -7, -7]) But, what if you only want to pad the right side or left side?...</p>
+</section>
+<footer class=entry-footer>November 2, 2021&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Sarthak Jariwala, Ph.D.</footer>
+<a class=entry-link aria-label="post link to Array Padding - Only One Side" href=https://sarthakjariwala.github.io/til/numpy/pad-an-array/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
 <h2>Codespell - check spelling
 </h2>
 </header>

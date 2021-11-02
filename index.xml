@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Sep 2021 19:59:05 -0700</lastBuildDate><atom:link href="https://sarthakjariwala.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Nov 2021 15:51:33 -0700</lastBuildDate><atom:link href="https://sarthakjariwala.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Array Padding - Only One Side</title>
+      <link>https://sarthakjariwala.github.io/til/numpy/pad-an-array/</link>
+      <pubDate>Tue, 02 Nov 2021 15:51:33 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/til/numpy/pad-an-array/</guid>
+      <description>numpy.pad provides an easy way to pad a numpy array. For instance, if you want to add two 3&amp;rsquo;s and four -7&amp;rsquo;s to an array, you can do the following -
+import numpy as np a = np.array([1, 2, -1]) np.pad(a, (2, 4), &amp;#34;constant&amp;#34;, constant_values=(3, -7)) # array([ 3, 3, 1, 2, -1, -7, -7, -7, -7]) But, what if you only want to pad the right side or left side?</description>
+    </item>
+    
     <item>
       <title>Build &amp; Run a Single Service in docker-compose</title>
       <link>https://sarthakjariwala.github.io/til/docker/build-run-single-service/</link>

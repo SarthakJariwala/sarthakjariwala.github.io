@@ -18,7 +18,7 @@
       
       <guid>https://sarthakjariwala.github.io/til/numpy/pad-an-array/</guid>
       <description>numpy.pad provides an easy way to pad a numpy array. For instance, if you want to add two 3&amp;rsquo;s and four -7&amp;rsquo;s to an array, you can do the following -
-import numpy as np a = np.array([1, 2, -1]) np.pad(a, (2, 4), &amp;#34;constant&amp;#34;, constant_values=(3, -7)) # array([ 3, 3, 1, 2, -1, -7, -7, -7, -7]) But, what if you only want to pad the right side or left side?</description>
+import numpy as np  a = np.array([1, 2, -1])  np.pad(a, (2, 4), &amp;#34;constant&amp;#34;, constant_values=(3, -7))  # array([ 3, 3, 1, 2, -1, -7, -7, -7, -7]) But, what if you only want to pad the right side or left side?</description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@ codespell content The changes suggested by codespell can be implemented with a -
       
       <guid>https://sarthakjariwala.github.io/til/prefect/local-dask-executor/</guid>
       <description>Recently, I was using prefect to run a few workflows locally. I wanted to run one of the workflows in parallel using LocalDaskExecutor. That&amp;rsquo;s when I learned that LocalDaskExecutor uses num_workers and DaskExecutor uses n_workers to specify the number of workers.
-With LocalDaskExecutor from prefect.executors import LocalDaskExecutor if __name__ == &amp;#34;__main__&amp;#34;: flow.run(executor=LocalDaskExecutor(scheduler=&amp;#34;processes&amp;#34;, num_workers=16)) With DaskExecutor from prefect.executors import DaskExecutor if __name__ == &amp;#34;__main__&amp;#34;: flow.run(executor=DaskExecutor(cluster_kwargs={&amp;#34;n_workers&amp;#34;: 16})) </description>
+With LocalDaskExecutor from prefect.executors import LocalDaskExecutor  if __name__ == &amp;#34;__main__&amp;#34;:  flow.run(executor=LocalDaskExecutor(scheduler=&amp;#34;processes&amp;#34;, num_workers=16)) With DaskExecutor from prefect.executors import DaskExecutor  if __name__ == &amp;#34;__main__&amp;#34;:  flow.run(executor=DaskExecutor(cluster_kwargs={&amp;#34;n_workers&amp;#34;: 16})) </description>
     </item>
     
     <item>
@@ -93,13 +93,29 @@ You can contact me here or connect with me on LinkedIn/Twitter.</description>
     
     
     <item>
+      <title>Open Source Software</title>
+      <link>https://sarthakjariwala.github.io/open-source-software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/open-source-software/</guid>
+      <description>I am the creator and maintainer of the following projects:
+seaborn-image  High-level API for attractive and descriptive image visualization in Python.
+ GitHub | Documentation | Introductory Post
+EZconda  Create, Manage, Re-create conda environments &amp;amp; specifications with ease.
+ GitHub | Documentation
+nrel-dev-api  Developer friendly Python API for accessing National Renewable Energy Lab developer resources.
+ GitHub | Documentation | Introductory Post
+prayog  Optimization API for experimental science.</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>https://sarthakjariwala.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sarthakjariwala.github.io/projects/</guid>
-      <description>List of some of my projects. You can learn more about the projects below.
- seaborn-image : Open-source image visualization in Python nrel-dev-api : Python API for accessing National Renewable Energy Lab developer resources SQ Web &amp;amp; Desktop App : Calculate solar cell&amp;rsquo;s maximum theoretical efficiency Structure-Property Relationships : Elucidate structure-property relationships in next-generation solar cell technology Solar Techno-Economic Analysis : To design solar powered community library &amp;amp; school in rural Ghana Automated Defect Discovery : Physics-informed deep learning on 2D materials Predictive Peptide Analysis : Machine learning for predictive analysis of self-assembled peptides Data Acquisiton Application : Intuitive platform for acquiring data from scientific hardware/instruments GLabViz : Desktop application for scientific data analysis BZMAN : Business management desktop application BZMAN Website : Flask application facilitating application download and other functionalities Other Open-Source Contributions : matpltolib-scalebar, pyscaffold-interactive, etc.</description>
+      <description>Selected list of my projects (publicly shareable). You can learn more about the projects below.
+ Structure-Property Relationships in Hybrid Materials : Elucidate structure-property relationships in next-generation solar cell technology. Automated Defect Discovery : Physics-informed deep learning on 2D materials. Predictive Peptide Analysis : Machine learning for predictive analysis of self-assembled peptides. Solar Techno-Economic Analysis : To design solar powered community library &amp;amp; school in rural Ghana.   Structure-Property Relationships in Novel Solar Energy Materials Used statistical methods in combination with expertise in image &amp;amp; data analysis and domain knowledge to elucidate structure-property relationships in next-generation solar cell technology.</description>
     </item>
     
     

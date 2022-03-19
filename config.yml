@@ -95,13 +95,13 @@ outputs:
 
 menu:
     main:
-        - identifier: search
-          name: Search
-          url: /search/
-          weight: 10
         - identifier: projects
           name: Projects
           url: /projects/
+          weight: 10
+        - identifier: software
+          name: Software
+          url: /open-source-software/
           weight: 20
         - identifier: posts
           name: Blog
@@ -119,3 +119,7 @@ menu:
           name: About
           url: /about/
           weight: 60
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 70

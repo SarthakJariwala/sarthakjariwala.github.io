@@ -63,8 +63,6 @@ params:
         buttons:
             - name: "Search..."
               url: search
-            - name: "Tags"
-              url: tags
 
     socialIcons:
         - name: twitter
@@ -95,31 +93,31 @@ outputs:
 
 menu:
     main:
-        - identifier: projects
-          name: Projects
-          url: /projects/
+        - identifier: about
+          name: About
+          url: /about/
           weight: 10
         - identifier: software
           name: Software
           url: /open-source-software/
           weight: 20
+        - identifier: projects
+          name: Projects
+          url: /projects/
+          weight: 30
         - identifier: posts
           name: Blog
           url: /posts/
-          weight: 30
+          weight: 40
         - identifier: til
           name: Til
           url: /til/
-          weight: 40
-        - identifier: tags
-          name: Tags
-          url: /tags/
           weight: 50
-        - identifier: about
-          name: About
-          url: /about/
-          weight: 60
         - identifier: search
           name: Search
           url: /search/
+          weight: 60
+        - identifier: tags
+          name: Tags
+          url: /tags/
           weight: 70

@@ -1,7 +1,8 @@
-+++
-title = "Open Source Software"
-slug = "open-source-software"
-+++
+---
+title : "Open Source Software"
+slug : "open-source-software"
+disableShare : true
+---
 
 I am the **creator and maintainer** of the following projects:
 

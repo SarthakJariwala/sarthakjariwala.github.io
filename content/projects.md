@@ -1,7 +1,8 @@
-+++
-title = "Projects"
-slug = "projects"
-+++
+---
+title : "Projects"
+slug : "projects"
+disableShare : true
+---
 
 Selected list of my projects (publicly shareable). You can learn more about the projects below.
 

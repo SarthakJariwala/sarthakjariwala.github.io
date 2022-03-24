@@ -10,15 +10,24 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Nov 2021 15:51:33 -0700</lastBuildDate><atom:link href="https://sarthakjariwala.github.io/tags/numpy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Mar 2022 21:36:24 -0700</lastBuildDate><atom:link href="https://sarthakjariwala.github.io/tags/numpy/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Array Padding - Only One Side</title>
-      <link>https://sarthakjariwala.github.io/til/numpy/pad-an-array/</link>
-      <pubDate>Tue, 02 Nov 2021 15:51:33 -0700</pubDate>
+      <title>Pad Numpy Array</title>
+      <link>https://sarthakjariwala.github.io/code/numpy/pad-an-array/</link>
+      <pubDate>Wed, 23 Mar 2022 21:36:24 -0700</pubDate>
       
-      <guid>https://sarthakjariwala.github.io/til/numpy/pad-an-array/</guid>
-      <description>numpy.pad provides an easy way to pad a numpy array. For instance, if you want to add two 3&amp;rsquo;s and four -7&amp;rsquo;s to an array, you can do the following -
-import numpy as np  a = np.array([1, 2, -1])  np.pad(a, (2, 4), &amp;#34;constant&amp;#34;, constant_values=(3, -7))  # array([ 3, 3, 1, 2, -1, -7, -7, -7, -7]) But, what if you only want to pad the right side or left side?</description>
+      <guid>https://sarthakjariwala.github.io/code/numpy/pad-an-array/</guid>
+      <description>Preliminaries import numpy as np  # create an array a = np.array([1, 2, -1]) Pad array on both sides with constant values Add two 3&amp;rsquo;s to the left of the array and four -7&amp;rsquo;s to the right of the array.
+np.pad(a, (2, 4), &amp;#34;constant&amp;#34;, constant_values=(3, -7))  # array([ 3, 3, 1, 2, -1, -7, -7, -7, -7]) Pad array on only one side But, what if you only want to pad the right side or left side?</description>
+    </item>
+    
+    <item>
+      <title>Swap Axes in Array</title>
+      <link>https://sarthakjariwala.github.io/code/numpy/swap-axes-in-an-array/</link>
+      <pubDate>Wed, 23 Mar 2022 21:23:56 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/code/numpy/swap-axes-in-an-array/</guid>
+      <description>Preliminary # load library import numpy as np Create a multi-dimensional array m = np.zeros(shape=(100, 32, 50)) Swap dimensions # swap axis 1 and 2 with each other in array `m` m_swapped = np.swapaxes(m, 1, 2)  # view the shape m_swapped.shape (100, 50, 32) </description>
     </item>
     
   </channel>

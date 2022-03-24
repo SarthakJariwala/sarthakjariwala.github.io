@@ -65,15 +65,15 @@ params:
               url: search
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/JariwalaSarthak"
         - name: github
           url: "https://github.com/SarthakJariwala"
         - name: linkedin
           url: "https://www.linkedin.com/in/sarthak-jariwala-877858108/"
         - name: scholar
-          url: "https://scholar.google.com/citations?user=Cjz37ukAAAAJ&hl=en&oi=ao"
-
+          url: "https://scholar.google.com/citations?user=E2ixgRrcZfsC&hl=en&oi=ao"
+        - name: twitter
+          url: "https://twitter.com/JariwalaSarthak"
+        
     # for search
     # https://fusejs.io/api/options.html
     fuseOpts:
@@ -101,23 +101,19 @@ menu:
           name: Software
           url: /open-source-software/
           weight: 20
+        - identifier: code
+          name: Notes
+          url: /code/
+          weight: 30
         - identifier: projects
           name: Projects
           url: /projects/
-          weight: 30
+          weight: 40
         - identifier: posts
           name: Blog
           url: /posts/
-          weight: 40
-        - identifier: til
-          name: Til
-          url: /til/
           weight: 50
         - identifier: search
           name: Search
           url: /search/
           weight: 60
-        - identifier: tags
-          name: Tags
-          url: /tags/
-          weight: 70

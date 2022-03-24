@@ -1,19 +1,19 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-tags: []
-author: ["Sarthak Jariwala, Ph.D."]
-showToc: true
+title: "Swap Axes in Array"
+date: 2022-03-23T21:23:56-07:00
+tags: ["python", "numpy"]
+authors: ["Sarthak Jariwala"]
+showToc: false
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: ""
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
-hideSummary: false
+hideSummary: true
 searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
@@ -29,3 +29,26 @@ ShowPostNavLinks: true
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
 ---
+
+### Preliminary
+```python
+# load library
+import numpy as np
+```
+
+### Create a multi-dimensional array
+```python
+m = np.zeros(shape=(100, 32, 50))
+```
+
+### Swap dimensions
+```python
+# swap axis 1 and 2 with each other in array `m`
+m_swapped = np.swapaxes(m, 1, 2)
+
+# view the shape
+m_swapped.shape
+```
+```python
+(100, 50, 32)
+```

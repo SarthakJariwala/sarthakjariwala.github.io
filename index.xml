@@ -10,7 +10,27 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Mar 2022 22:44:29 -0700</lastBuildDate><atom:link href="https://sarthakjariwala.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 09:54:26 -0700</lastBuildDate><atom:link href="https://sarthakjariwala.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Delete Git Tag</title>
+      <link>https://sarthakjariwala.github.io/code/git/deleting_tag/</link>
+      <pubDate>Wed, 20 Apr 2022 09:54:26 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/code/git/deleting_tag/</guid>
+      <description>Delete a git tag git tag -d v1.0.1 Here, v1.0.1 is the tag we want to delete.
+Remove it from remote/GitHub git push origin :v1.0.1  Note the &amp;ldquo;:&amp;rdquo; before the tag you want to remove from remote.
+ </description>
+    </item>
+    
+    <item>
+      <title>Create and Push New Git Tag</title>
+      <link>https://sarthakjariwala.github.io/code/git/creating_tag/</link>
+      <pubDate>Wed, 20 Apr 2022 09:54:17 -0700</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/code/git/creating_tag/</guid>
+      <description>Create a new git tag git tag v1.0.1 View tags git tag --list Push new tag to GitHub git push --tags </description>
+    </item>
+    
     <item>
       <title>Create New Environment</title>
       <link>https://sarthakjariwala.github.io/code/conda/create-new-environment/</link>

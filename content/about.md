@@ -4,12 +4,11 @@ slug: "about"
 disableShare: true
 ---
 
+**Research Scientist** at [Palo Alto Research Center Inc.](https://www.parc.com)
 
-I am currently a **Researcher and Data Scientist** at [Palo Alto Research Center Inc.](https://www.parc.com) 
+I work at the intersection of **materials, sensors, machine learning and software engineering**.
 
-I have 7+ years of experience working in collaborative scientific research and on solutions combining data science and software expertise with core scientific rigor.
-
-I also have **5+ years of experience working at the intersection of materials science, data science, and artificial intelligence**.
+I combine my expertise in these areas to solve scientific problems and commercial challenges.
 
 I have [published](https://scholar.google.com/citations?user=E2ixgRrcZfsC&hl=en&oi=ao) **10+ peer-reviewed articles in leading materials and energy journals.**
 

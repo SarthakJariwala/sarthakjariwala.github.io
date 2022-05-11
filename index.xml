@@ -132,6 +132,25 @@ I have significant experience in expertly communicating complex data to stakehol
     
     
     <item>
+      <title>Automated Defect Discovery Using Deep Learning</title>
+      <link>https://sarthakjariwala.github.io/projects/automated-defect-discovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/projects/automated-defect-discovery/</guid>
+      <description>Deep Learning of Solid-State Transformations and Reaction Pathways in 2D Materials.</description>
+    </item>
+    
+    <item>
+      <title>Leveraging Analytics and Characterization to Investigate Heterogeneity</title>
+      <link>https://sarthakjariwala.github.io/projects/dma-heterogeneity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/projects/dma-heterogeneity/</guid>
+      <description>Elucidating local compositional and structural variations in high-performing solar cells using advanced analytics applied to novel characterization techniques.
+ Learn more in the paper: Jariwala et al., ACS Energy Lett. 2022, 7, 1, 204–210.</description>
+    </item>
+    
+    <item>
       <title>Open Source Software</title>
       <link>https://sarthakjariwala.github.io/open-source-software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -146,15 +165,40 @@ I have significant experience in expertly communicating complex data to stakehol
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://sarthakjariwala.github.io/projects/</link>
+      <title>Predicting Peptide Interface Parameters</title>
+      <link>https://sarthakjariwala.github.io/projects/predictive-peptides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sarthakjariwala.github.io/projects/</guid>
-      <description>Selected list of my projects (publicly shareable). You can learn more about the projects below.
- Structure-Property Relationships in Hybrid Materials : Elucidate structure-property relationships in next-generation solar cell technology. Automated Defect Discovery : Physics-informed deep learning on 2D materials. Predictive Peptide Analysis : Machine learning for predictive analysis of self-assembled peptides. Solar Techno-Economic Analysis : To design solar powered community library &amp;amp; school in rural Ghana.   Structure-Property Relationships in Novel Solar Energy Materials Used statistical methods in combination with expertise in image &amp;amp; data analysis and domain knowledge to elucidate structure-property relationships in next-generation solar cell technology.</description>
+      <guid>https://sarthakjariwala.github.io/projects/predictive-peptides/</guid>
+      <description>Used image processing and machine learning for predictive analysis of self-assembled peptides on various substrates as imaged using Atomic Force Microscope.
+ Developed software framework using image processing and machine learning to identify different textural components and their segmentation in Atomic Force Microscope (AFM) images of self-assembled peptide structures.
+From AFM image data, the software helps end users:
+ Approximate the effect of natural tip drift which is ubiquitous in AFM characterization Correct for noise Detect different textures based on how ordered or disordered the self-assembly is Calculate:  Percent coverage of each texture Overall percent coverage of the self assembled peptides Ordered to disordered ratio (Degree of disorder)    This helps evaluate the self assembly properties of the peptides on the substrates for the processing conditions.</description>
     </item>
     
+    
+    <item>
+      <title>Solar Techno Economic Analysis</title>
+      <link>https://sarthakjariwala.github.io/projects/solar-techno-economic-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/projects/solar-techno-economic-analysis/</guid>
+      <description>As a senior technical member of Global Renewable Infrastructure Development (GRID) at the University of Washington :
+  Performed techno-economic analysis using SAM (System Advisor Model) and PySAM for designing a solar-powered school &amp;amp; community library in rural Ghana.
+  Developed remote data tracking system for monitoring the health and performance of installed solar modules and microgrids.
+  </description>
+    </item>
+    
+    <item>
+      <title>Structure Property Relationships in Next-Gen Solar Materials</title>
+      <link>https://sarthakjariwala.github.io/projects/structure-property-relationships/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/projects/structure-property-relationships/</guid>
+      <description>Elucidate structure-property relationships in next-generation solar cell technology.
+ Used statistical methods in combination with expertise in image &amp;amp; data analysis and domain knowledge to elucidate structure-property relationships in next-generation solar cell technology.
+Learn more about the project in the news coverage and paper.</description>
+    </item>
     
   </channel>
 </rss>

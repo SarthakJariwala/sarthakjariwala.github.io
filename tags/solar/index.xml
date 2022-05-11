@@ -20,5 +20,17 @@
       <description>A comparative look at solar resource availability</description>
     </item>
     
+    <item>
+      <title>Solar Techno Economic Analysis</title>
+      <link>https://sarthakjariwala.github.io/projects/solar-techno-economic-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarthakjariwala.github.io/projects/solar-techno-economic-analysis/</guid>
+      <description>As a senior technical member of Global Renewable Infrastructure Development (GRID) at the University of Washington :
+  Performed techno-economic analysis using SAM (System Advisor Model) and PySAM for designing a solar-powered school &amp;amp; community library in rural Ghana.
+  Developed remote data tracking system for monitoring the health and performance of installed solar modules and microgrids.
+  </description>
+    </item>
+    
   </channel>
 </rss>

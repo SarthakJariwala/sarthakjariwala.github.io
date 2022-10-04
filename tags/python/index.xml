@@ -17,7 +17,7 @@
       <pubDate>Wed, 23 Mar 2022 22:44:29 -0700</pubDate>
       
       <guid>https://sarthakjariwala.github.io/code/conda/create-new-environment/</guid>
-      <description>Create a new conda environment # create a new conda environment called ml-ninja conda create --name ml-ninja Create a new environment with packages # create a new environment with python=3.9 and numpy installed conda create --name ml-ninja python=3.9 numpy Verify environment creation conda env list  # conda environments: # # base * # ml-ninja </description>
+      <description>Create a new conda environment # create a new conda environment called ml-ninja conda create --name ml-ninja Create a new environment with packages # create a new environment with python=3.9 and numpy installed conda create --name ml-ninja python=3.9 numpy Verify environment creation conda env list # conda environments: # # base * # ml-ninja </description>
     </item>
     
     <item>
@@ -26,8 +26,8 @@
       <pubDate>Wed, 23 Mar 2022 21:36:24 -0700</pubDate>
       
       <guid>https://sarthakjariwala.github.io/code/numpy/pad-an-array/</guid>
-      <description>Preliminaries import numpy as np  # create an array a = np.array([1, 2, -1]) Pad array on both sides with constant values Add two 3&amp;rsquo;s to the left of the array and four -7&amp;rsquo;s to the right of the array.
-np.pad(a, (2, 4), &amp;#34;constant&amp;#34;, constant_values=(3, -7))  # array([ 3, 3, 1, 2, -1, -7, -7, -7, -7]) Pad array on only one side But, what if you only want to pad the right side or left side?</description>
+      <description>Preliminaries import numpy as np # create an array a = np.array([1, 2, -1]) Pad array on both sides with constant values Add two 3&amp;rsquo;s to the left of the array and four -7&amp;rsquo;s to the right of the array.
+np.pad(a, (2, 4), &amp;#34;constant&amp;#34;, constant_values=(3, -7)) # array([ 3, 3, 1, 2, -1, -7, -7, -7, -7]) Pad array on only one side But, what if you only want to pad the right side or left side?</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@ np.pad(a, (2, 4), &amp;#34;constant&amp;#34;, constant_values=(3, -7))  # array(
       <pubDate>Wed, 23 Mar 2022 21:23:56 -0700</pubDate>
       
       <guid>https://sarthakjariwala.github.io/code/numpy/swap-axes-in-an-array/</guid>
-      <description>Preliminary # load library import numpy as np Create a multi-dimensional array m = np.zeros(shape=(100, 32, 50)) Swap dimensions # swap axis 1 and 2 with each other in array `m` m_swapped = np.swapaxes(m, 1, 2)  # view the shape m_swapped.shape (100, 50, 32) </description>
+      <description>Preliminary # load library import numpy as np Create a multi-dimensional array m = np.zeros(shape=(100, 32, 50)) Swap dimensions # swap axis 1 and 2 with each other in array `m` m_swapped = np.swapaxes(m, 1, 2) # view the shape m_swapped.shape (100, 50, 32) </description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@ codespell content The changes suggested by codespell can be implemented with a -
       <pubDate>Tue, 03 Aug 2021 16:00:55 -0700</pubDate>
       
       <guid>https://sarthakjariwala.github.io/code/prefect/local-dask-executor/</guid>
-      <description>Preliminaries from prefect.executors import LocalDaskExecutor, DaskExecutor from prefect import task, Flow  from typing import Iterable Create a Prefect Task # create sample prefect task to run in a flow @task def add(list_of_int: Iterable[int]):  return list_of_int[0] + list_of_int[1] Create a Prefect Flow # list of integers to add list_of_ints = [[1, 2], [-3, 5], [4, 5], [9, 0], [3, -8]]  # create prefect Flow to run with Dask Executors with Flow(&amp;#34;sample-flow&amp;#34;) as flow:  result = add.</description>
+      <description>Preliminaries from prefect.executors import LocalDaskExecutor, DaskExecutor from prefect import task, Flow from typing import Iterable Create a Prefect Task # create sample prefect task to run in a flow @task def add(list_of_int: Iterable[int]): return list_of_int[0] + list_of_int[1] Create a Prefect Flow # list of integers to add list_of_ints = [[1, 2], [-3, 5], [4, 5], [9, 0], [3, -8]] # create prefect Flow to run with Dask Executors with Flow(&amp;#34;sample-flow&amp;#34;) as flow: result = add.</description>
     </item>
     
     <item>
@@ -94,9 +94,8 @@ codespell content The changes suggested by codespell can be implemented with a -
       
       <guid>https://sarthakjariwala.github.io/projects/solar-techno-economic-analysis/</guid>
       <description>As a senior technical member of Global Renewable Infrastructure Development (GRID) at the University of Washington :
-  Performed techno-economic analysis using SAM (System Advisor Model) and PySAM for designing a solar-powered school &amp;amp; community library in rural Ghana.
-  Developed remote data tracking system for monitoring the health and performance of installed solar modules and microgrids.
-  </description>
+Performed techno-economic analysis using SAM (System Advisor Model) and PySAM for designing a solar-powered school &amp;amp; community library in rural Ghana.
+Developed remote data tracking system for monitoring the health and performance of installed solar modules and microgrids.</description>
     </item>
     
   </channel>

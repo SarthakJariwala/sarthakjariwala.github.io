@@ -17,7 +17,7 @@
       <pubDate>Wed, 23 Mar 2022 22:44:29 -0700</pubDate>
       
       <guid>https://sarthakjariwala.github.io/code/conda/create-new-environment/</guid>
-      <description>Create a new conda environment # create a new conda environment called ml-ninja conda create --name ml-ninja Create a new environment with packages # create a new environment with python=3.9 and numpy installed conda create --name ml-ninja python=3.9 numpy Verify environment creation conda env list  # conda environments: # # base * # ml-ninja </description>
+      <description>Create a new conda environment # create a new conda environment called ml-ninja conda create --name ml-ninja Create a new environment with packages # create a new environment with python=3.9 and numpy installed conda create --name ml-ninja python=3.9 numpy Verify environment creation conda env list # conda environments: # # base * # ml-ninja </description>
     </item>
     
   </channel>

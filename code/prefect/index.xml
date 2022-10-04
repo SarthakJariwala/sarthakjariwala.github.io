@@ -17,7 +17,7 @@
       <pubDate>Tue, 03 Aug 2021 16:00:55 -0700</pubDate>
       
       <guid>https://sarthakjariwala.github.io/code/prefect/local-dask-executor/</guid>
-      <description>Preliminaries from prefect.executors import LocalDaskExecutor, DaskExecutor from prefect import task, Flow  from typing import Iterable Create a Prefect Task # create sample prefect task to run in a flow @task def add(list_of_int: Iterable[int]):  return list_of_int[0] + list_of_int[1] Create a Prefect Flow # list of integers to add list_of_ints = [[1, 2], [-3, 5], [4, 5], [9, 0], [3, -8]]  # create prefect Flow to run with Dask Executors with Flow(&amp;#34;sample-flow&amp;#34;) as flow:  result = add.</description>
+      <description>Preliminaries from prefect.executors import LocalDaskExecutor, DaskExecutor from prefect import task, Flow from typing import Iterable Create a Prefect Task # create sample prefect task to run in a flow @task def add(list_of_int: Iterable[int]): return list_of_int[0] + list_of_int[1] Create a Prefect Flow # list of integers to add list_of_ints = [[1, 2], [-3, 5], [4, 5], [9, 0], [3, -8]] # create prefect Flow to run with Dask Executors with Flow(&amp;#34;sample-flow&amp;#34;) as flow: result = add.</description>
     </item>
     
   </channel>

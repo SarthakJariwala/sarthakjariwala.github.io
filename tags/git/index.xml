@@ -18,8 +18,7 @@
       
       <guid>https://sarthakjariwala.github.io/code/git/deleting_tag/</guid>
       <description>Delete a git tag git tag -d v1.0.1 Here, v1.0.1 is the tag we want to delete.
-Remove it from remote/GitHub git push origin :v1.0.1  Note the &amp;ldquo;:&amp;rdquo; before the tag you want to remove from remote.
- </description>
+Remove it from remote/GitHub git push origin :v1.0.1 Note the &amp;ldquo;:&amp;rdquo; before the tag you want to remove from remote.</description>
     </item>
     
     <item>

@@ -18,8 +18,7 @@
       
       <guid>https://sarthakjariwala.github.io/code/git/deleting_tag/</guid>
       <description>Delete a git tag git tag -d v1.0.1 Here, v1.0.1 is the tag we want to delete.
-Remove it from remote/GitHub git push origin :v1.0.1  Note the &amp;ldquo;:&amp;rdquo; before the tag you want to remove from remote.
- </description>
+Remove it from remote/GitHub git push origin :v1.0.1 Note the &amp;ldquo;:&amp;rdquo; before the tag you want to remove from remote.</description>
     </item>
     
     <item>
@@ -37,7 +36,7 @@ Remove it from remote/GitHub git push origin :v1.0.1  Note the &amp;ldquo;:&amp;
       <pubDate>Wed, 23 Mar 2022 22:44:29 -0700</pubDate>
       
       <guid>https://sarthakjariwala.github.io/code/conda/create-new-environment/</guid>
-      <description>Create a new conda environment # create a new conda environment called ml-ninja conda create --name ml-ninja Create a new environment with packages # create a new environment with python=3.9 and numpy installed conda create --name ml-ninja python=3.9 numpy Verify environment creation conda env list  # conda environments: # # base * # ml-ninja </description>
+      <description>Create a new conda environment # create a new conda environment called ml-ninja conda create --name ml-ninja Create a new environment with packages # create a new environment with python=3.9 and numpy installed conda create --name ml-ninja python=3.9 numpy Verify environment creation conda env list # conda environments: # # base * # ml-ninja </description>
     </item>
     
     <item>
@@ -46,8 +45,8 @@ Remove it from remote/GitHub git push origin :v1.0.1  Note the &amp;ldquo;:&amp;
       <pubDate>Wed, 23 Mar 2022 21:36:24 -0700</pubDate>
       
       <guid>https://sarthakjariwala.github.io/code/numpy/pad-an-array/</guid>
-      <description>Preliminaries import numpy as np  # create an array a = np.array([1, 2, -1]) Pad array on both sides with constant values Add two 3&amp;rsquo;s to the left of the array and four -7&amp;rsquo;s to the right of the array.
-np.pad(a, (2, 4), &amp;#34;constant&amp;#34;, constant_values=(3, -7))  # array([ 3, 3, 1, 2, -1, -7, -7, -7, -7]) Pad array on only one side But, what if you only want to pad the right side or left side?</description>
+      <description>Preliminaries import numpy as np # create an array a = np.array([1, 2, -1]) Pad array on both sides with constant values Add two 3&amp;rsquo;s to the left of the array and four -7&amp;rsquo;s to the right of the array.
+np.pad(a, (2, 4), &amp;#34;constant&amp;#34;, constant_values=(3, -7)) # array([ 3, 3, 1, 2, -1, -7, -7, -7, -7]) Pad array on only one side But, what if you only want to pad the right side or left side?</description>
     </item>
     
     <item>
@@ -56,7 +55,7 @@ np.pad(a, (2, 4), &amp;#34;constant&amp;#34;, constant_values=(3, -7))  # array(
       <pubDate>Wed, 23 Mar 2022 21:23:56 -0700</pubDate>
       
       <guid>https://sarthakjariwala.github.io/code/numpy/swap-axes-in-an-array/</guid>
-      <description>Preliminary # load library import numpy as np Create a multi-dimensional array m = np.zeros(shape=(100, 32, 50)) Swap dimensions # swap axis 1 and 2 with each other in array `m` m_swapped = np.swapaxes(m, 1, 2)  # view the shape m_swapped.shape (100, 50, 32) </description>
+      <description>Preliminary # load library import numpy as np Create a multi-dimensional array m = np.zeros(shape=(100, 32, 50)) Swap dimensions # swap axis 1 and 2 with each other in array `m` m_swapped = np.swapaxes(m, 1, 2) # view the shape m_swapped.shape (100, 50, 32) </description>
     </item>
     
     <item>
@@ -86,7 +85,7 @@ codespell content The changes suggested by codespell can be implemented with a -
       <pubDate>Tue, 03 Aug 2021 16:00:55 -0700</pubDate>
       
       <guid>https://sarthakjariwala.github.io/code/prefect/local-dask-executor/</guid>
-      <description>Preliminaries from prefect.executors import LocalDaskExecutor, DaskExecutor from prefect import task, Flow  from typing import Iterable Create a Prefect Task # create sample prefect task to run in a flow @task def add(list_of_int: Iterable[int]):  return list_of_int[0] + list_of_int[1] Create a Prefect Flow # list of integers to add list_of_ints = [[1, 2], [-3, 5], [4, 5], [9, 0], [3, -8]]  # create prefect Flow to run with Dask Executors with Flow(&amp;#34;sample-flow&amp;#34;) as flow:  result = add.</description>
+      <description>Preliminaries from prefect.executors import LocalDaskExecutor, DaskExecutor from prefect import task, Flow from typing import Iterable Create a Prefect Task # create sample prefect task to run in a flow @task def add(list_of_int: Iterable[int]): return list_of_int[0] + list_of_int[1] Create a Prefect Flow # list of integers to add list_of_ints = [[1, 2], [-3, 5], [4, 5], [9, 0], [3, -8]] # create prefect Flow to run with Dask Executors with Flow(&amp;#34;sample-flow&amp;#34;) as flow: result = add.</description>
     </item>
     
     <item>
@@ -146,7 +145,7 @@ I have significant experience in expertly communicating complex data to stakehol
       
       <guid>https://sarthakjariwala.github.io/projects/dma-heterogeneity/</guid>
       <description>Elucidating local compositional and structural variations in high-performing solar cells using advanced analytics applied to novel characterization techniques.
- Learn more in the paper: Jariwala et al., ACS Energy Lett. 2022, 7, 1, 204–210.</description>
+Learn more in the paper: Jariwala et al., ACS Energy Lett. 2022, 7, 1, 204–210.</description>
     </item>
     
     <item>
@@ -156,11 +155,13 @@ I have significant experience in expertly communicating complex data to stakehol
       
       <guid>https://sarthakjariwala.github.io/open-source-software/</guid>
       <description>I create and maintain various open source software libraries and applications. Below is a list of some of the projects:
- seaborn-image  High-level API for attractive and descriptive image visualization in Python.
- GitHub | Documentation | Introductory Post
- EZconda  Create, Manage, Re-create conda environments &amp;amp; specifications with ease.
- GitHub | Documentation
- nrel-dev-api  Developer friendly Python API for accessing National Renewable Energy Lab developer resources.</description>
+seaborn-image High-level API for attractive and descriptive image visualization in Python.
+GitHub | Documentation | Introductory Post
+EZconda Create, Manage, Re-create conda environments &amp;amp; specifications with ease.
+GitHub | Documentation
+nrel-dev-api Developer friendly Python API for accessing National Renewable Energy Lab developer resources.
+GitHub | Documentation | Introductory Post
+prayog Optimization API for experimental science.</description>
     </item>
     
     <item>
@@ -170,9 +171,9 @@ I have significant experience in expertly communicating complex data to stakehol
       
       <guid>https://sarthakjariwala.github.io/projects/predictive-peptides/</guid>
       <description>Used image processing and machine learning for predictive analysis of self-assembled peptides on various substrates as imaged using Atomic Force Microscope.
- Developed software framework using image processing and machine learning to identify different textural components and their segmentation in Atomic Force Microscope (AFM) images of self-assembled peptide structures.
+Developed software framework using image processing and machine learning to identify different textural components and their segmentation in Atomic Force Microscope (AFM) images of self-assembled peptide structures.
 From AFM image data, the software helps end users:
- Approximate the effect of natural tip drift which is ubiquitous in AFM characterization Correct for noise Detect different textures based on how ordered or disordered the self-assembly is Calculate:  Percent coverage of each texture Overall percent coverage of the self assembled peptides Ordered to disordered ratio (Degree of disorder)    This helps evaluate the self assembly properties of the peptides on the substrates for the processing conditions.</description>
+Approximate the effect of natural tip drift which is ubiquitous in AFM characterization Correct for noise Detect different textures based on how ordered or disordered the self-assembly is Calculate: Percent coverage of each texture Overall percent coverage of the self assembled peptides Ordered to disordered ratio (Degree of disorder) This helps evaluate the self assembly properties of the peptides on the substrates for the processing conditions.</description>
     </item>
     
     
@@ -183,9 +184,8 @@ From AFM image data, the software helps end users:
       
       <guid>https://sarthakjariwala.github.io/projects/solar-techno-economic-analysis/</guid>
       <description>As a senior technical member of Global Renewable Infrastructure Development (GRID) at the University of Washington :
-  Performed techno-economic analysis using SAM (System Advisor Model) and PySAM for designing a solar-powered school &amp;amp; community library in rural Ghana.
-  Developed remote data tracking system for monitoring the health and performance of installed solar modules and microgrids.
-  </description>
+Performed techno-economic analysis using SAM (System Advisor Model) and PySAM for designing a solar-powered school &amp;amp; community library in rural Ghana.
+Developed remote data tracking system for monitoring the health and performance of installed solar modules and microgrids.</description>
     </item>
     
     <item>
@@ -195,7 +195,7 @@ From AFM image data, the software helps end users:
       
       <guid>https://sarthakjariwala.github.io/projects/structure-property-relationships/</guid>
       <description>Elucidate structure-property relationships in next-generation solar cell technology.
- Used statistical methods in combination with expertise in image &amp;amp; data analysis and domain knowledge to elucidate structure-property relationships in next-generation solar cell technology.
+Used statistical methods in combination with expertise in image &amp;amp; data analysis and domain knowledge to elucidate structure-property relationships in next-generation solar cell technology.
 Learn more about the project in the news coverage and paper.</description>
     </item>
     

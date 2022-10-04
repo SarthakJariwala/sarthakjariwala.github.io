@@ -26,7 +26,7 @@
       
       <guid>https://sarthakjariwala.github.io/projects/dma-heterogeneity/</guid>
       <description>Elucidating local compositional and structural variations in high-performing solar cells using advanced analytics applied to novel characterization techniques.
- Learn more in the paper: Jariwala et al., ACS Energy Lett. 2022, 7, 1, 204–210.</description>
+Learn more in the paper: Jariwala et al., ACS Energy Lett. 2022, 7, 1, 204–210.</description>
     </item>
     
     <item>
@@ -36,9 +36,9 @@
       
       <guid>https://sarthakjariwala.github.io/projects/predictive-peptides/</guid>
       <description>Used image processing and machine learning for predictive analysis of self-assembled peptides on various substrates as imaged using Atomic Force Microscope.
- Developed software framework using image processing and machine learning to identify different textural components and their segmentation in Atomic Force Microscope (AFM) images of self-assembled peptide structures.
+Developed software framework using image processing and machine learning to identify different textural components and their segmentation in Atomic Force Microscope (AFM) images of self-assembled peptide structures.
 From AFM image data, the software helps end users:
- Approximate the effect of natural tip drift which is ubiquitous in AFM characterization Correct for noise Detect different textures based on how ordered or disordered the self-assembly is Calculate:  Percent coverage of each texture Overall percent coverage of the self assembled peptides Ordered to disordered ratio (Degree of disorder)    This helps evaluate the self assembly properties of the peptides on the substrates for the processing conditions.</description>
+Approximate the effect of natural tip drift which is ubiquitous in AFM characterization Correct for noise Detect different textures based on how ordered or disordered the self-assembly is Calculate: Percent coverage of each texture Overall percent coverage of the self assembled peptides Ordered to disordered ratio (Degree of disorder) This helps evaluate the self assembly properties of the peptides on the substrates for the processing conditions.</description>
     </item>
     
     <item>
@@ -48,9 +48,8 @@ From AFM image data, the software helps end users:
       
       <guid>https://sarthakjariwala.github.io/projects/solar-techno-economic-analysis/</guid>
       <description>As a senior technical member of Global Renewable Infrastructure Development (GRID) at the University of Washington :
-  Performed techno-economic analysis using SAM (System Advisor Model) and PySAM for designing a solar-powered school &amp;amp; community library in rural Ghana.
-  Developed remote data tracking system for monitoring the health and performance of installed solar modules and microgrids.
-  </description>
+Performed techno-economic analysis using SAM (System Advisor Model) and PySAM for designing a solar-powered school &amp;amp; community library in rural Ghana.
+Developed remote data tracking system for monitoring the health and performance of installed solar modules and microgrids.</description>
     </item>
     
     <item>
@@ -60,7 +59,7 @@ From AFM image data, the software helps end users:
       
       <guid>https://sarthakjariwala.github.io/projects/structure-property-relationships/</guid>
       <description>Elucidate structure-property relationships in next-generation solar cell technology.
- Used statistical methods in combination with expertise in image &amp;amp; data analysis and domain knowledge to elucidate structure-property relationships in next-generation solar cell technology.
+Used statistical methods in combination with expertise in image &amp;amp; data analysis and domain knowledge to elucidate structure-property relationships in next-generation solar cell technology.
 Learn more about the project in the news coverage and paper.</description>
     </item>
     

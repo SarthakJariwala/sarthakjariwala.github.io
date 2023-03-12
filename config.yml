@@ -55,21 +55,21 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: "Sarthak Jariwala, Ph.D."
-        subtitle: "Materials and Data Scientist | Researcher"
+        subtitle: "Sr. Software Engineer | Researcher | Hardware-Software Interfaces"
         imageUrl: "images/profile-pic.png"
         imageWidth: 300
         imageHeight: 300
         imageTitle: my image
         buttons:
-            - name: "Search..."
-              url: search
+            - name: "Latest Project"
+              url: "https://mybragdoc.com"
 
     socialIcons:
         - name: github
           url: "https://github.com/SarthakJariwala"
         - name: linkedin
           url: "https://www.linkedin.com/in/sarthak-jariwala-877858108/"
-        - name: scholar
+        - name: googlescholar
           url: "https://scholar.google.com/citations?user=E2ixgRrcZfsC&hl=en&oi=ao"
         - name: twitter
           url: "https://twitter.com/JariwalaSarthak"

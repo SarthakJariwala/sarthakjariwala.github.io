@@ -4,7 +4,7 @@ slug : "open-source-software"
 disableShare : true
 ---
 
-I _**create and maintain**_ various open source software libraries and applications. Below is a list of some of the projects:
+I **create and maintain** various open source software libraries and applications. Below is a list of some of the projects:
 
 ---
 

@@ -10,9 +10,7 @@ I work at the intersection of **software and hardware interfaces, materials, and
 
 I combine my expertise in these areas to solve scientific problems and commercial challenges.
 
-I have [published](https://scholar.google.com/citations?user=E2ixgRrcZfsC&hl=en&oi=ao) **10+ peer-reviewed articles in leading materials and energy journals.**
-
-I also have **extensive experience developing software tools and libraries**. You can check out my **open-source libraries and tools** [here](/open-source-software).
+I have [published](https://scholar.google.com/citations?user=E2ixgRrcZfsC&hl=en&oi=ao) **10+ peer-reviewed articles in leading materials and energy journals.** and have **extensive experience developing software tools and libraries**. You can check out my **open-source libraries and tools** [here](/open-source-software).
 
 I have significant experience in expertly communicating complex information to stakeholders and technical & general audience, and in providing actionable insights from data collected and critically analyzed with scientific rigor.
 

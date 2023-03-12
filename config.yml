@@ -97,17 +97,17 @@ menu:
           name: About
           url: /about/
           weight: 10
-        - identifier: software
-          name: Software
-          url: /open-source-software/
-          weight: 20
-        - identifier: code
-          name: Notes
-          url: /code/
-          weight: 30
         - identifier: projects
           name: Projects
           url: /projects/
+          weight: 20
+        - identifier: software
+          name: Software
+          url: /open-source-software/
+          weight: 30
+        - identifier: code
+          name: Notes
+          url: /code/
           weight: 40
         - identifier: posts
           name: Blog
